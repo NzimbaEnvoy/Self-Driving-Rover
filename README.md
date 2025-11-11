@@ -1,3 +1,9 @@
+
+
+
+![IMG_7768](https://github.com/user-attachments/assets/a243863c-c0c6-4252-b905-8b8817a59d25)
+
+
 # Self-Driving-Rover
 Autonomous self driving rover built for a simulated Mars environment using computer vision and YOLOv8. Detects and classifies objects such as tennis balls, hammers, balloons, and traffic cones, enabling real time navigation and obstacle avoidance through AI powered vision control.
 
